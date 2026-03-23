@@ -29,14 +29,14 @@ Se deben seguir las normas ortográficas tradicionales del español, salvo en lo
  
  ### LL y Y
  
- Todos los sonidos /ʝ/ (como en “ya”) o /ʒ/ (como en el “sho” argentino) deben escribirse con *y*. Así, “llave” pasa a ser “yabe” y “yuca” a ser “yuka”.
+ Todos los sonidos /ʝ/ (como en “ya”) o /ʒ/ (como en el “sho” argentino) deben escribirse con *y*. Así, “llave” pasa a ser “yabe” y “lluvia” a ser “yubia”.
  
  ### C, S y Z
  
  Todos los sonidos /s/ deben escribirse con *s*.  
  Todos los sonidos /θ/ deben escribirse con *z*.
  
- En España y en aquellos lugares donde se usa el fonema /θ/, “zapato” seguiría escribiéndose igual y “crecer” pasaría a “kreser”. En Latinoamérica, al no existir dicho fonema, “zapato” pasaría a ser “sapato” y “crecer” también pasaría a “kreser”.
+ En España y en aquellos lugares donde se usa el fonema /θ/, “zapato” seguiría escribiéndose igual y “crecer” pasaría a “krezer”. En Latinoamérica, al no existir dicho fonema, “zapato” pasaría a ser “sapato” y “crecer” también pasaría a “kreser”.
 
  ### X y CC
  Todos los sonidos /ks/ y /kθ/ deben escribirse con X. De este modo, “examen” se mantiene igual, “texto” también, y palabras como “acción” pasan a escribirse “axión”.
